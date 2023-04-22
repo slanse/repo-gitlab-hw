@@ -1,24 +1,50 @@
-# Домашнее задание к занятию Git - Даниил Оберган
+# Домашнее задание к занятию "Что такое DevOps? CI/CD" - Даниил Оберган
 
 ---
 
 ### Задание 1
-[Ссылка](https://github.com/slanse/repo-8-01_1/commit/fa33e84784854b676505eccbfdd37014f4b88a1d)
+Настройки проекта:
+![img](img/8-2/01.png)
+![img](img/8-2/02.png)
+![img](img/8-2/03.png)
+![img](img/8-2/04.png)
+![img](img/8-2/05.png)
+Выполнение сборки:
+![img](img/8-2/06.png)
+![img](img/8-2/07.png)
+![img](img/8-2/08.png)
+![img](img/8-2/09.png)
+![img](img/8-2/10.png)
+![img](img/8-2/11.png)
 
 ---
 
 ### Задание 2
 
-[Ссылка](https://github.com/slanse/repo-8-01_1/commit/a6bc039edaf1a9cc82323be48421afeb276c819a)
+Настройки проекта:
+![img](img/8-2/12.png)
+Выполнение сборки:
+![img](img/8-2/13.png)
+![img](img/8-2/14.png)
 
 ---
 
 ### Задание 3
 
-[Ссылка](https://github.com/slanse/repo-8-01_1/network)
+Настройки проекта:
+![img](img/8-2/15.png)
+Выполнение сборки:
+![img](img/8-2/16.png)
+![img](img/8-2/17.png)
 
 ---
 
 ### Задание 4
 
-[Ссылка](https://github.com/slanse/repo-8-01_1/network)
+Настройки проекта:
+![img](img/8-2/18.png)
+![img](img/8-2/19.png)
+Выполнение сборки:
+![img](img/8-2/20.png)
+![img](img/8-2/21.png)
+![img](img/8-2/22.png)
